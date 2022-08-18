@@ -1,7 +1,10 @@
 
 #Portfolio Project
-![screenshot](Screenshot.png)
-> This my first Project in the Microverse curriculum
+### Mobile View
+![screenshot](mobile.png)
+### Desktop View
+![screenshot](desktop.png)
+> This my Portfolio Project in the Microverse curriculum
 
 ## Built With
 - Html
@@ -11,7 +14,7 @@
 ## Getting Started
  To get a local copy up and running follow these simple example steps.
 - Clone this repository or download the Zip folder:
-git clone https://github.com/mr-anuj/Hello-world.git
+git clone https://github.com/mr-anuj/Portfolio.git
 - Navigate to the location of the folder in your machine
 
 ## Authors
