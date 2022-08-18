@@ -1,10 +1,11 @@
 
-#Portfolio Project
+# Microverse Portfolio Project
+> Portfolio project created using Figma design.
 ### Mobile View
 ![screenshot](mobile.png)
 ### Desktop View
 ![screenshot](desktop.png)
-> This my Portfolio Project in the Microverse curriculum
+
 
 ## Built With
 - Html
@@ -16,6 +17,16 @@
 - Clone this repository or download the Zip folder:
 git clone https://github.com/mr-anuj/Portfolio.git
 - Navigate to the location of the folder in your machine
+
+### Prerequisites
+- Web browser (like Google Chrome, Opera...).
+- Code editor (like Atom, VScode...).
+
+## Setup
+To setup the project locally: click on "Code" (dropdown list) then "Download ZIP".
+
+## Deployment
+To run the project open the downloaded folder (after extraction) then run the "index.html" file in your browser.
 
 ## Authors
 
@@ -30,9 +41,8 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to Microverse's code reviewers and to everyone who reviewed my project and made suggestions.
+- The website design is from [@Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1)
 ## License
-This project is [MIT]()
+This project is [MIT]() licensed.
 
